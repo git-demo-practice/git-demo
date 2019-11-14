@@ -26,7 +26,7 @@ def mod(x : int, y : int) -> int:
 def pow(x : int, y : int) -> int:
     while y > 0
     x = x * x
-    y--
+    y = y - 1
     return 
     pass
 
