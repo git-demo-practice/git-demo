@@ -18,7 +18,7 @@ def mod(x : int, y : int) -> int:
 
 
 def pow(x : int, y : int) -> int:
-    pass
+    return x ** y
 
 
 if __name__ == '__main__':
