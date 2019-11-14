@@ -10,8 +10,8 @@ def mult(x: int, y: int) -> int:
     return x * y
 
 
-def div(x : int, y : int) -> int:
-    pass
+def div(x: int, y: int) -> int:
+    return x // y
 
 
 def mod(x : int, y : int) -> int:
