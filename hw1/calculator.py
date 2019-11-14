@@ -4,22 +4,30 @@ def add(x : int, y : int) -> int:
 
 
 def sub(x : int, y : int) -> int:
+    return x - y
     pass
 
 
 def mult(x : int, y : int) -> int:
+    return x * y
     pass
 
 
 def div(x : int, y : int) -> int:
+    x / y
     pass
 
 
 def mod(x : int, y : int) -> int:
+    x % y
     pass
 
 
 def pow(x : int, y : int) -> int:
+    while y > 0
+    x = x * x
+    y--
+    return 
     pass
 
 
