@@ -1,25 +1,25 @@
-def add(x : int, y : int) -> int:
-    pass
+def add(x: int, y: int) -> int:
+    return x + y
 
 
-def sub(x : int, y : int) -> int:
-    pass
+def sub(x: int, y: int) -> int:
+    return x - y
 
 
-def mult(x : int, y : int) -> int:
-    pass
+def mult(x: int, y: int) -> int:
+    return x * y
 
 
-def div(x : int, y : int) -> int:
-    pass
+def div(x: int, y: int) -> int:
+    return x // y
 
 
-def mod(x : int, y : int) -> int:
-    pass
+def mod(x: int, y: int) -> int:
+    return x % y
 
 
-def pow(x : int, y : int) -> int:
-    pass
+def pow(x: int, y: int) -> int:
+    return x**y
 
 
 if __name__ == '__main__':
