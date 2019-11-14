@@ -18,8 +18,8 @@ def mod(x: int, y: int) -> int:
     return x % y
 
 
-def pow(x : int, y : int) -> int:
-    pass
+def pow(x: int, y: int) -> int:
+    return x**y
 
 
 if __name__ == '__main__':
