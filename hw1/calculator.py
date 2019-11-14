@@ -15,7 +15,7 @@ def div(x : int, y : int) -> int:
 
 
 def mod(x : int, y : int) -> int:
-    pass
+    print(x % y)
 
 
 def pow(x : int, y : int) -> int:
