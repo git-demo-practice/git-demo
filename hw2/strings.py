@@ -2,7 +2,7 @@ from typing import List
 
 
 def filter_lines_of_length_five(lines: List[str]) -> List[str]:
-    pass
+    return [line for line in lines if len(line) == 5]
 
 
 if __name__ == '__main__':
