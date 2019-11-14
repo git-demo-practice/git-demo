@@ -1,5 +1,5 @@
 def add(x : int, y : int) -> int:
-    pass
+    print(x + y)
 
 
 def sub(x : int, y : int) -> int:
