@@ -11,7 +11,7 @@ def mult(x : int, y : int) -> int:
 
 
 def div(x : int, y : int) -> int:
-    pass
+    print(4 / 2)
 
 
 def mod(x : int, y : int) -> int:
