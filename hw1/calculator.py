@@ -7,7 +7,7 @@ def sub(x : int, y : int) -> int:
 
 
 def mult(x : int, y : int) -> int:
-    pass
+    return x * y
 
 
 def div(x : int, y : int) -> int:
