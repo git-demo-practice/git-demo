@@ -1,6 +1,5 @@
 def add(x : int, y : int) -> int:
-    input(x)
-    input(y)
+    return x + y
     pass
 
 
